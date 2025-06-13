@@ -1,0 +1,14 @@
+/* styles.css */
+body {
+    background-color: #3f88d0;
+  }
+  
+  .card {
+    margin: 20px 0;
+  }
+  
+  .clock {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
